@@ -16,9 +16,10 @@ contactNumbers:
 
 Photography is what the emotion look like.So let's play a game of taking pictures.
 
-Sankalan 2022 presents ALACRITY'22 ,a photography contest of DUCS where you can show your focus via phtography , give a message through your beautiful clicks.
-Just put your imagination in your clicks and send us a beautiful clicks of yours to win a game .
+Sankalan 2022 presents ALACRITY'22 ,a photography contest of DUCS where you can show your focus via phtography and give a message through your beautiful clicks.</br>
+Just put your imagination in your clicks and let them do the talking.
 </br>
+Register yourself now! See you with your cameras.📸
 </br>
 
 ### RULES AND REGULATIONS
