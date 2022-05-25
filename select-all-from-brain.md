@@ -31,6 +31,6 @@ An SQL based quiz extensively designed to query your brain.
 3. prelims round will have 30 questions and mains will have arround 20 questions.
 5. Levels of question in mains will be hard as compared to prelims.
 6. The participant with highest score in mains round will win.
-7. Time of submission will be seen in case if Tie braker
+7. Time of submission will be seen to break ties.
 ### TEAM ISZE
 1 
