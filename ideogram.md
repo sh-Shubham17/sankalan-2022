@@ -4,6 +4,9 @@ title: Ideogram
 tags: ["event"]
 permalink: /events/ideogram/
 image: /assets/images/events/ideogram.jpg
+links:
+  - name: "Register"
+    link: "/register/"
 contactNumbers:
   - name: "Prerna"
     mobile: "9582324904"

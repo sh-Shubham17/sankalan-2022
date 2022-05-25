@@ -1,15 +1,19 @@
 ---
 layout: event-layout.njk
-title: BegBorrowSteal
+title: Beg Borrow Steal
 tags: ["event"]
-permalink: /events/chakravyuh/
-image: /assets/images/events/begBorrowSteal.jpg
+permalink: /events/beg-borrow-steal/
+image: /assets/images/events/beg-borrow-steal.jpg
+links:
+  - name: "Register"
+    link: "/register/"
 contactNumbers:
   - name: "Nitesh"
     mobile: "7870720178"
   - name: "Deepti"
     mobile: "9050276428"
 ---
+
 An event which can shook your legs and brain at the same time, which makes you run faster🏃‍♀️ while carrying handful of accesories. Beg, Borrow or steal but collect all the items from the list to make your team win.🥇
 </br>
 </br>

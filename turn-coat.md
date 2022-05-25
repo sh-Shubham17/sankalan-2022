@@ -1,9 +1,12 @@
 ---
 layout: event-layout.njk
-title: Turn_A_coat
+title: Turn-Coat
 tags: ["event"]
-permalink: /events/turn_a_coat/
-image: /assets/images/events/turnacoat.png
+permalink: /events/turn-coat/
+image: /assets/images/events/turn-coat.jpg
+links:
+  - name: "Register"
+    link: "/register/"
 contactNumbers:
   - name: "Prashant"
     mobile: "9968921976"
@@ -14,28 +17,23 @@ contactNumbers:
 It's normal to have different opinions and contradict others. But can you contradict yourself?😵
 Support a statement for one minute and oppose it in the next. 
 </br>
-</br>
 
 Presenting.. TURN-COAT
-</br>
 </br>
 
 Let the hypocrisy be awarded for once 🤪
 </br>
-</br>
 
 Register yourself now!
-</br>
 </br>
 
 ### INSTRUCTIONS
 This event will have 3 elimination rounds.
-#### Rounds
 
+#### Rounds
 - you will be given a minute to think about the topic at starting .
 - you have to speak either in favor or against of the topic untill the bells rings.
 - After a ring you have to switch to opposite of the motion you choose earlier.
 
 ### TEAM
-
 - Individual

@@ -1,9 +1,12 @@
 ---
 layout: event-layout.njk
 title: Algoholics
-tags: ["event-old"]
+tags: ["event"]
 permalink: /events/algoholics/
-image: /assets/images/events/algoholics.png
+image: /assets/images/events/algoholics.jpg
+links:
+  - name: "Register"
+    link: "/register/"
 contactNumbers:
   - name: "Shaurya"
     mobile: "9560399578"

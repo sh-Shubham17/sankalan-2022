@@ -1,10 +1,12 @@
 ---
 layout: event-layout.njk
 title: Mind Matters
-tags: ["event-old"]
+tags: ["event"]
 permalink: /events/mind-matters/
-image: /assets/images/events/mindmatters.png
-
+image: /assets/images/events/mind-matters.jpg
+links:
+  - name: "Register"
+    link: "/register/"
 contactNumbers:
   - name: "Ankit"
     mobile: "8708798823"

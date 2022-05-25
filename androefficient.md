@@ -2,14 +2,18 @@
 layout: event-layout.njk
 title: Androefficient
 tags: ["event"]
-permalink: /events/Androefficient/
-image: /assets/images/events/Androefficient.jpg
+permalink: /events/androefficient/
+image: /assets/images/events/androefficient.jpg
+links:
+  - name: "Register"
+    link: "/register/"
 contactNumbers:
   - name: "Abhishek"
     mobile: "8178169992"
   - name: "Navneet"
     mobile: "7254043950"
 ---
+
 Heyo Android developers!!🙋‍♀️
 Do you think you can design the best android app among your coding circle?
 Then we have a perfect event for you. Sankalan'22 presents ANDROEFFICIENT

@@ -5,12 +5,12 @@ tags: ["event"]
 permalink: /events/alacrity/
 image: /assets/images/events/alacrity.jpg
 links:
-  - name: "Send your entries"
-    link: "https://forms.gle/VXedJuaDpCZdK6vn8"
+  - name: "Register"
+    link: "/register/"
 contactNumbers:
-  - name: "SHUBHAM"
+  - name: "Shubham"
     mobile: "9992680009"
-  - name: "DEEPTI"
+  - name: "Deepti"
     mobile: "9050276428"
 ---
 
@@ -46,7 +46,7 @@ Register yourself now! See you with your cameras. 📸
 
 #### Submission Platform:
 
-Register yourself and upload your entry on provided link ( https://forms.gle/VXedJuaDpCZdK6vn8 ).
+Register yourself and upload your entry on provided link [https://forms.gle/VXedJuaDpCZdK6vn8](https://forms.gle/VXedJuaDpCZdK6vn8).
 
 ### JUDGEMENT
 

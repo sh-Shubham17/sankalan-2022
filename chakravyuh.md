@@ -4,10 +4,14 @@ title: Chakravyuh
 tags: ["event"]
 permalink: /events/chakravyuh/
 image: /assets/images/events/chakravyuh.jpg
+links:
+  - name: "Register"
+    link: "/register/"
 contactNumbers:
   - name: "Divyam"
     mobile: "8881176882"
 ---
+
 Are you puzzle lover? or a cryptophlic?
 Yes! So let's use the given clue,
 break the chakravyuh, reach the treasure and then the winner will be you💰
