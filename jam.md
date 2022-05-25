@@ -11,7 +11,7 @@ contactNumbers:
     mobile: "8851033435"
   - name: "Sakshi"
     mobile: "9599398540"
-  - name: "Shivam Gangurar"
+  - name: "Shivam Gangwar"
     mobile: "7451090735"
 ---
 
