@@ -33,3 +33,5 @@ Register yourself now!
 5. Turn in all treasures as soon as possible. The score will be based on number of correct answers and time taken to solve the clues.
 6. The participant with highest score will win an cash exciting prizes.
 
+### TEAM ISZE
+team of 2 members is required.
