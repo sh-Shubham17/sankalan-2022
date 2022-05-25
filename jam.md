@@ -5,14 +5,14 @@ tags: ["event-old"]
 permalink: /events/jam/
 image: /assets/images/events/jam.jpg
 contactNumbers:
+  - name: "Dipesh Joshi"
+    mobile: "9971869320"
   - name: "Shivam Gangwar"
     mobile: "7451090735"
   - name: "Kavita"
     mobile: "8851033435"
   - name: "Sakshi"
     mobile: "9599398540"
-  - name: "Dipesh Joshi"
-    mobile: "9971869320"
 ---
 
 You'd think a minute is a long time.. but really, is it?
