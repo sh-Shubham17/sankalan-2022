@@ -33,7 +33,6 @@ Register yourself now
 - The team will be disqualified, if any member is voilating rules.
 - Leaderboard will be decided on the overall performance of team in the round.
 - In case of draw, ties will be broken by competing on certain task between the two teams.
-- 
 #### Rules
 
 - There will be 2 rounds.
