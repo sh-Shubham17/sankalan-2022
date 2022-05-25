@@ -16,17 +16,15 @@ contactNumbers:
     mobile: "9599398560"
 ---
 
-To all the <b>Jagga Jasoos</b> out there!
-<b>Sankalan'22</b> is back with 
-The Cryptography event of DUCS
-
-Do you think you have a hidden detective inside you who can crack any password or decode
-any hidden message?</br>
-If yes, then we welcome you to the interactive journey of this secret world where you find a lot of
-cryptic coded words that go to certain ways.</br>
-We expect you to come along with your Mr. Watson and wake up sherlock in you and solve
-some encoded and cryptic texts.</br>
-
+Is there a hidden detective inside you? A hidden "Sherlock holmes" who can read between the lines🧐,
+listen to the unsaid and study the not-so-obvious clues to crack the code!🕵️‍♂️
+<br/>
+If yes, then we have the perfect event for you.. CIPHER-O-MORE
+<br/>
+Read the clues and decipher the ciphered data to advance in the game. Don't forget to bring your Watson with you!
+<br/>
+Register yourself now🥳
+<br/>
 ### INSTRUCTIONS
 
 #### ROUNDS
