@@ -48,4 +48,4 @@ Link will be provided
 Judgment will be done based on two criteria:
 
 1. 50 percent of the score depends on our judges
-2. The other 50 percent is on you, we will post the photographs on our official Facebook page & Instagram Page and it's your duty to increase the number of positive reactions on your photo by sharing it with your friends. The picture with the most number of positive reactions until 18:00 hours on Sunday of every week will be the winner of the contest for the respective week.
+2. The other 50 percent is on you, we will post the photographs on our official Facebook page & Instagram Page and it's your duty to increase the number of positive reactions on your photo by sharing it with your friends. The picture with the most number of positive reactions will be the winner of the contest .
