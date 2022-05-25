@@ -10,7 +10,12 @@ contactNumbers:
   - name: "Navneet"
     mobile: "7254043950"
 ---
+Heyo Android developers!!🙋‍♀️
+Do you think you can design the best android app among your coding circle?
+Then we have a perfect event for you. Sankalan'22 presents ANDROEFFICIENT
 
+Showcase the blend of your technical skills and creativity, and come up with best app that will take 
+Register yourself now
 
 </br>
 
