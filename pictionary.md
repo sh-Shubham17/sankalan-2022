@@ -37,4 +37,4 @@ Both rounds will be elimination rounds
 - In 2nd round 1 member of team will have to draw and make his teammate guess the word(s).
 
 ### TEAM SIZE
- - Teams must consists 2 members. Single player team will not be allowed.
+ - Teams must be in pair. Individual particpation not allowed.
