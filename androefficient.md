@@ -17,14 +17,13 @@ contactNumbers:
 ### RULES AND REGULATIONS
 
 1. Students currently studying in any college/university/department can take part in the event.
-2. The contest is open for offline submissions only.
-3. Team of 2 part
-5. You are required to make your UI as smoooth and attractive as possibe.
-
+2. You are required to make your app as smoooth and attractive as possible.
+3. Only solo participtaion is allowed.
+4. 
 
 ### JUDGEMENT
 
 Judgment will be done based on two criteria:
 
-1. completeness of the task
-2. creativity , smoothness and clearity in UI of your app.
+1. completeness of the task.
+2. creativity , smoothness and clearity of your app.
