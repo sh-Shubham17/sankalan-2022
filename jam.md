@@ -1,26 +1,31 @@
 ---
 layout: event-layout.njk
-title: JAM
+title: Jist A minute
 tags: ["event-old"]
 permalink: /events/jam/
 image: /assets/images/events/jam.jpg
-links:
-  - name: "Register"
-    link: "https://sankalan-portal.ducs.in/"
 contactNumbers:
-  - name: "Pradeep Kumar"
-    mobile: "9560169309"
-  - name: "Megha Sundriyal"
-    mobile: "9650028300"
+  - name: "Dipesh Joshi"
+    mobile: "9971869320"
+  - name: "Kavita"
+    mobile: "8851033435"
+  - name: "Sakshi"
+    mobile: "9599398540"
+  - name: "Shivam Gangurar"
+    mobile: "7451090735"
 ---
 
-A minute is all you get. Rather a minute is all you need to leave an impression that no one will
-ever forget. 😎
-
-A minute to fame...</br>
-
-Just A Minute is an event to surpass your expectations. We will amaze you with what can be
-done in Just A Minute...😱
+You'd think a minute is a long time.. but really, is it?
+It certainly wouldn't feel so when the clock will be ticking by, second by second⏳, with a task in hand and a pressure to perform better than the rest 👀
+<br />
+<br />
+Let's see how fast and steady you can perform in a "minute".
+Presenting.. JUST A MINUTE
+<br />
+<br />
+Join us and #CompleteAChallengeInAMinute⏱️ to win amazing prizes.🏆
+<br />
+Register yourself now
 </br>
 </br>
 
