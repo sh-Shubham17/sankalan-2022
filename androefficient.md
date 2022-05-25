@@ -19,7 +19,9 @@ contactNumbers:
 1. Students currently studying in any college/university/department can take part in the event.
 2. You are required to make your app as smoooth and attractive as possible.
 3. Only solo participtaion is allowed.
-4. 
+4. you have to make app in our lab only from the scratch.
+5. Using personal laptops are not allowed.
+
 
 ### JUDGEMENT
 
