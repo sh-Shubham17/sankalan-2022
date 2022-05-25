@@ -29,10 +29,9 @@ Register yourself now! See you with your cameras.📸
 3. Submissions will not be accepted once the deadline lapses.
 4. Only one submission is allowed per participant, per theme.
 5. You are required to provide a unique title & description for each image submitted.
-6. Basic editing, including color enhancement, the use of filters, and cropping of the Photo(s) is acceptable, provided any such editing does not affect the     
-   authenticity and/or genuineness of the Photo(s).
-7. Advanced editing used to create illusions, deceptions and/or manipulations, and the adding and removing of significant elements within the frame is prohibited.
-8. The participant should also like our Facebook page and follow us on Instagram.
+6. Basic editing, including color enhancement, the use of filters, and cropping of the Photo(s) is acceptable, provided any such editing does not affect the authenticity and/or genuineness of the Photo(s).
+8. Advanced editing used to create illusions, deceptions and/or manipulations, and the adding and removing of significant elements within the frame is prohibited.
+9. The participant should also like our Facebook page and follow us on Instagram.
 
 
 ### SUBMISSION
