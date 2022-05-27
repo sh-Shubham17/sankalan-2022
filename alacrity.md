@@ -6,7 +6,7 @@ permalink: /events/alacrity/
 image: /assets/images/events/alacrity.jpg
 links:
   - name: "Register"
-    link: "/register/"
+    link: "https://forms.gle/VXedJuaDpCZdK6vn8"
 contactNumbers:
   - name: "Shubham"
     mobile: "9992680009"
